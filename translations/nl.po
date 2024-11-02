@@ -1852,9 +1852,9 @@ msgid ""
 "body to Google and becoming its product."
 msgstr ""
 "Tijd besteed aan wishthis is tijd die niet wordt besteed aan werk met "
-"winstoogmerk. Als je me wilt steunen, maar dat niet kunt of wilt %s, "
-"overweeg dan om je lichaam aan Google te verkopen en een product van Google "
-"te worden."
+"winstoogmerk. Als je me wilt steunen, maar niet kunt of wilt %s, overweeg "
+"dan om je lichaam aan Google te verkopen en een product van Google te "
+"worden."
 
 #: pages/profile/profile.php:367
 msgid "sponsor me"
