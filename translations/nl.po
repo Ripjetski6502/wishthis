@@ -1858,7 +1858,7 @@ msgstr ""
 
 #: pages/profile/profile.php:367
 msgid "sponsor me"
-msgstr "sponsor mij"
+msgstr "doneren"
 
 #: pages/profile/profile.php:371
 msgid "Please remember to add an exception to your ad-blocker and browser."
